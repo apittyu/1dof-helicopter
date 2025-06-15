@@ -37,6 +37,8 @@ With the potentiometer the user can set the amount of time intervals when a new 
 
 The leds light up when the desired angle is reached.
 
+The serial monitor is used to monitor the system with the angle, thrust and PID values.
+
 The project help me understand electronics, kinematic systems, BLDC motor controll using a microcontroller, PID controlling and IMUS
 
 
